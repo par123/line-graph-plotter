@@ -1,7 +1,7 @@
 # line-graph-plotter
 This desktop application is writen in java. Takes (x,y) points and plots in the graph. 
 
-IDE used : Netbeans
+IDE used : Netbeans 8.1
 
 These libraries are required:
 (1). https://mvnrepository.com/artifact/jfree/jcommon/1.0.14
