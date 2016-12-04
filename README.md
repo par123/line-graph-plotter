@@ -12,7 +12,7 @@ These libraries are required: <br>
 (2). https://mvnrepository.com/artifact/jfree/jfreechart/1.0.13<br>
 (3). https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc/3.8.11.2<br>
 
-<img src='http://eee.du.ac.bd/img/Dean.jpg'>
+<img src='http://eee.du.ac.bd/img/Depg'>
 
 </body>
 </html>
