@@ -16,6 +16,8 @@ These libraries are required: <br>
 	<li>Saves any data once used to plot.</li>
 	<li>Graph can be re-plotted using that data</li>
 	<li>Graph can be saved as image</li>
+	<li>Graph can be printed directly from right-click menue</li>
+	<li>Zoom-in zoom-out option in X and Y both axis</li>
 </ol>
 
 </body>
